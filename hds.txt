@@ -4,3 +4,4 @@ Block product - VSP G1x00
 File product - HNAS
 Unified product - VSP Gx00
 Object storage - HCP
+Converged product - UCP
